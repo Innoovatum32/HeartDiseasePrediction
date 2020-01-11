@@ -32,18 +32,14 @@ BY CLICKING ON RUN(PLAY BUTTON) ACCURACY AND THE CONFUSION MATRIX CAN BE VISUALI
 
 # Output 
 
-![Test Image 1](3DTest.png)
+![Naive Bayes](https://github.com/Innoovatum32/HeartDiseasePrediction/blob/master/output_images/NB.png)
 
-![Test Image 2]("3DTest.png")
+![Logistic Regression](https://github.com/Innoovatum32/HeartDiseasePrediction/blob/master/output_images/LogisticClassifier.png)
 
-![Test Image 3](/3DTest.png)
+![Support Vector Machine](https://github.com/Innoovatum32/HeartDiseasePrediction/blob/master/output_images/SVM.png)
 
-![Test Image 4](https://github.com/tograh/testrepository/3DTest.png)
+![Decision Tree Classifier](https://github.com/Innoovatum32/HeartDiseasePrediction/blob/master/output_images/DecisionTreeClassifier.png)
 
-![Test Image 5](https://.../3DTest.png)
+![KNN](https://github.com/Innoovatum32/HeartDiseasePrediction/blob/master/output_images/KNN.png)
 
-![Test Image 6](master/3DTest.png)
 
-![Test Image 7](https://github.com/tograh/testrepository/master/3DTest.png)
-
-![Test Image 8](https://raw.githubusercontent.com/tograh/testrepository/master/3DTest.png)
