@@ -18,6 +18,8 @@ pip install sklearn.
 https://archive.ics.uci.edu/ml/datasets/Heart+Disease
 ```
 
+```bash
+## Steps
 Folder contains Output visualization file, dataset file, separate scripts for each of the different algorithms
 CLONE THE REPOSITORY BY CLICKING ON "CLONE OR DOWNLOAD" FROM GITHUB PAGE 
 UNZIP THE REPOSITORY TO ANY DRIVE ON YOUR LOCAL MACHINE
@@ -29,7 +31,7 @@ eg : data = pd.read_csv('E:\\heart_disease_prediction\\dataset\\heart.csv')
 data = pd.read_csv('PATH_TO_YOUR_DATASET\\heart.csv')
 ```
 BY CLICKING ON RUN(PLAY BUTTON) ACCURACY AND THE CONFUSION MATRIX CAN BE VISUALIZSED
-
+```
 # Output 
 
 ![Naive Bayes](https://github.com/Innoovatum32/HeartDiseasePrediction/blob/master/output_images/NB.png)
