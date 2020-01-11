@@ -20,16 +20,23 @@ https://archive.ics.uci.edu/ml/datasets/Heart+Disease
 
 ```bash
 ## Steps
-Folder contains Output visualization file, dataset file, separate scripts for each of the different algorithms
-CLONE THE REPOSITORY BY CLICKING ON "CLONE OR DOWNLOAD" FROM GITHUB PAGE 
-UNZIP THE REPOSITORY TO ANY DRIVE ON YOUR LOCAL MACHINE
-OPEN SPYDER FROM START WINDOWS
-OPEN GIVEN PYTHON SCRIPTS IN SPYDER 
-CHANGE THE LOCATION OF THE DATASET TO LOCATION OF THE DOWNLOADED DATASET ON YOUR LOCAL MACHINE
-```bash
+1. Folder contains Output visualization file, dataset file, separate scripts for each of the different algorithms.
+
+2. CLONE THE REPOSITORY BY CLICKING ON "CLONE OR DOWNLOAD" FROM GITHUB PAGE.
+
+3.UNZIP THE REPOSITORY TO ANY DRIVE ON YOUR LOCAL MACHINE.
+
+4.OPEN SPYDER FROM START WINDOWS.
+
+5.OPEN GIVEN PYTHON SCRIPTS IN SPYDER.
+
+6.CHANGE THE LOCATION OF THE DATASET TO LOCATION OF THE DOWNLOADED DATASET ON YOUR LOCAL MACHINE
+
+
 eg : data = pd.read_csv('E:\\heart_disease_prediction\\dataset\\heart.csv')
 data = pd.read_csv('PATH_TO_YOUR_DATASET\\heart.csv')
-```
+
+
 BY CLICKING ON RUN(PLAY BUTTON) ACCURACY AND THE CONFUSION MATRIX CAN BE VISUALIZSED
 ```
 # Output 
