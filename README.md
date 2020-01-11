@@ -42,7 +42,7 @@ BY CLICKING ON RUN(PLAY BUTTON) ACCURACY AND THE CONFUSION MATRIX CAN BE VISUALI
 
 ![KNN](https://github.com/Innoovatum32/HeartDiseasePrediction/blob/master/output_images/KNN.png)
 
-![Pie Chart](https://github.com/Innoovatum32/HeartDiseasePrediction/blob/master/output_images/pieChart.png)
+![Pie Chart](https://github.com/Innoovatum32/HeartDiseasePrediction/blob/master/output_images/pieChart.jpg)
 
 ![Bar Chart](https://github.com/Innoovatum32/HeartDiseasePrediction/blob/master/output_images/BarChart.png)
 
