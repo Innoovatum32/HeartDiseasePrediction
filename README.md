@@ -5,20 +5,27 @@ Spyder,
 Miniconda/Anaconda.
 
 # libraries
-numpy,
-pandas,
-matplotlib.pyplot,
-seaborn,
-sklearn.
+```bash
+pip install numpy
+pip install pandas
+pip install matplotlib
+pip install seaborn
+pip install sklearn.
+```
 
-# DATASET https://archive.ics.uci.edu/ml/datasets/Heart+Disease
+## DATASET 
+```bash
+https://archive.ics.uci.edu/ml/datasets/Heart+Disease
+```
 
-# Folder contains Output visualization file, dataset file, separate scripts for each of the different algorithms
-# CLONE THE REPOSITORY BY CLICKING ON "CLONE OR DOWNLOAD" FROM GITHUB PAGE 
-# UNZIP THE REPOSITORY TO ANY DRIVE ON YOUR LOCAL MACHINE
+## Folder contains Output visualization file, dataset file, separate scripts for each of the different algorithms
+## CLONE THE REPOSITORY BY CLICKING ON "CLONE OR DOWNLOAD" FROM GITHUB PAGE 
+## UNZIP THE REPOSITORY TO ANY DRIVE ON YOUR LOCAL MACHINE
   OPEN SPYDER FROM START WINDOWS
-# OPEN GIVEN PYTHON SCRIPTS IN SPYDER 
-# CHANGE THE LOCATION OF THE DATASET TO LOCATION OF THE DOWNLOADED DATASET ON YOUR LOCAL MACHINE
+## OPEN GIVEN PYTHON SCRIPTS IN SPYDER 
+## CHANGE THE LOCATION OF THE DATASET TO LOCATION OF THE DOWNLOADED DATASET ON YOUR LOCAL MACHINE
+```bash
 eg : data = pd.read_csv('E:\\heart_disease_prediction\\dataset\\heart.csv')
 data = pd.read_csv('PATH_TO_YOUR_DATASET\\heart.csv')
-# BY CLICKING ON RUN(PLAY BUTTON) ACCURACY AND THE CONFUSION MATRIX CAN BE VISUALIZSED
+```
+## BY CLICKING ON RUN(PLAY BUTTON) ACCURACY AND THE CONFUSION MATRIX CAN BE VISUALIZSED
