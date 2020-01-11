@@ -1,5 +1,5 @@
 # BEST HEART DISEASE PREDICTION, USING MACHINE LEARNING ALGORITHMS
-# Software Requirments
+#  Software Requirments
 Python 3.7
 Spyder
 Miniconda/Anaconda
