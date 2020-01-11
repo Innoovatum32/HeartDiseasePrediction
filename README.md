@@ -1,15 +1,15 @@
 # BEST HEART DISEASE PREDICTION, USING MACHINE LEARNING ALGORITHMS
-#  Software Requirments
-Python 3.7
-Spyder
-Miniconda/Anaconda
+#   Software Requirments
+Python 3.7,
+Spyder,
+Miniconda/Anaconda.
 
 # libraries
-numpy 
-pandas
-matplotlib.pyplot 
-seaborn 
-sklearn
+numpy,
+pandas,
+matplotlib.pyplot,
+seaborn,
+sklearn.
 
 # DATASET https://archive.ics.uci.edu/ml/datasets/Heart+Disease
 
